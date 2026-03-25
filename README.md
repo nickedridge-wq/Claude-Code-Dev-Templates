@@ -1,4 +1,4 @@
-# Agent Foundation Kit
+# Claude Code Dev Templates
 
 A structured framework for building autonomous AI agents with Claude and Claude Code.
 
@@ -6,7 +6,7 @@ A structured framework for building autonomous AI agents with Claude and Claude 
 
 ## Overview
 
-The Agent Foundation Kit provides the planning system, execution protocols, and production infrastructure needed to build AI agents consistently and reliably. It eliminates the overhead of recreating project structure, documentation standards, and execution rules from scratch for each new project.
+Claude Code Dev Templates provides the planning system, execution protocols, and production infrastructure needed to build AI agents consistently and reliably. It eliminates the overhead of recreating project structure, documentation standards, and execution rules from scratch for each new project.
 
 The framework is built around three clearly defined roles:
 
